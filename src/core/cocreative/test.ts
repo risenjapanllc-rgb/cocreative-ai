@@ -1,7 +1,7 @@
-import { runCoCreativeCore } from "./index";
+import { createFirstResponse } from "./firstResponse";
 
 const input = "窓の外は雨";
 
-const output = runCoCreativeCore(input);
+const output = createFirstResponse(input);
 
 console.log(output);

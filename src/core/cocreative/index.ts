@@ -1,12 +1,12 @@
 import { createCognition } from "./cognition";
-import { validatePipelineOutput } from "./validator";
 import { RAW_EQUALS_FINAL } from "./pipeline";
 import { canReflect } from "./reflect";
+import { validateCoreIntegrity } from "./integrity";
 
 export function runCoCreativeCore(input: string): string {
   const output = createCognition(input);
 
-  validatePipelineOutput(output);
+  validateCoreIntegrity(output);
 
   if (!RAW_EQUALS_FINAL) {
     throw new Error("RAW and FINAL output diverged");

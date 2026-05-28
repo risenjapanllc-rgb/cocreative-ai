@@ -13,3 +13,4 @@ export * from "./index";
 export * from "./dream";
 export * from "./dreamValidator";
 export * from "./executeDream";
+export * from "./uiAdapter";

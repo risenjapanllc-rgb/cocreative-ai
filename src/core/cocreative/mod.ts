@@ -14,3 +14,4 @@ export * from "./dream";
 export * from "./dreamValidator";
 export * from "./executeDream";
 export * from "./uiAdapter";
+export * from "./routeGuard";

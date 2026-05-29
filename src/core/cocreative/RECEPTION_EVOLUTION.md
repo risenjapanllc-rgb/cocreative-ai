@@ -154,3 +154,15 @@ Does true reception preserve:
 * presence?
 
 Future development will continue exploring this question.
+
+Working Hypothesis
+
+True reception may preserve not only language,
+but also the user's field of attention.
+
+The system should therefore distinguish between:
+
+- linguistic preservation
+- experiential preservation
+
+These may overlap, but they are not always identical.

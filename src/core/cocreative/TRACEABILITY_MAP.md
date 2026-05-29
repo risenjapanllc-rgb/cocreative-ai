@@ -10,6 +10,7 @@ Implementation:
 - reception.ts
 - cognition.ts
 - RECEPTION_EVOLUTION.md
+  
 ---
 
 ## RAW = FINAL

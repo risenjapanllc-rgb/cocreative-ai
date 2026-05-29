@@ -117,7 +117,18 @@ Preserved:
 - rain started
 - no added atmosphere
 
----
+Potential Question:
+
+Does the response preserve the experience of noticing rain?
+
+Or does it merely repeat the statement?
+
+The distinction between:
+
+- language preservation
+- experience preservation
+
+remains unclear.
 
 ---
 

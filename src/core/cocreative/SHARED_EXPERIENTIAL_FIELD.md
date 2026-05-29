@@ -82,3 +82,33 @@ Future research may explore whether reception is best understood as:
 * shared experiential participation
 
 The answer remains open.
+
+---
+
+## Open Relationship Question
+
+The relationship between reception and shared experiential participation remains unclear.
+
+Possibilities:
+
+### Option A
+
+Reception creates a shared experiential field.
+
+Reception
+→ Shared Experiential Field
+
+### Option B
+
+A shared experiential field is itself a form of reception.
+
+Reception = Shared Experiential Field
+
+### Option C
+
+Reception and shared experiential participation are related but distinct processes.
+
+Reception
+↔ Shared Experiential Field
+
+At present, no conclusion has been reached.

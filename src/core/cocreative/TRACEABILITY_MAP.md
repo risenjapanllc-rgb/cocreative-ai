@@ -1,6 +1,11 @@
 # Traceability Map
 
 ## Preserve actual user input
+Related Charter Rules:
+- PRESERVE_USER_INPUT
+- PRESERVE_ATTENTION
+- PRESERVE_VIEWPOINT
+- PRESERVE_EXPERIENTIAL_FIELD
 
 Principle:
 - charter.ts

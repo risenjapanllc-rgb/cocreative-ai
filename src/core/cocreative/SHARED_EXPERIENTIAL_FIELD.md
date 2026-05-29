@@ -162,3 +162,45 @@ Inference often replaces the unknown.
 Participation often approaches the unknown.
 
 The difference between inference and participation may be one of the central distinctions in future reception research.
+
+---
+
+## Empathy as Recognition
+
+A participant may not know that understanding has occurred.
+
+Participation comes first.
+
+Recognition comes later.
+
+Example:
+
+A response is offered.
+
+The other person feels understood.
+
+Their response reveals that something meaningful was shared.
+
+Only then does the participant recognize that understanding may have occurred.
+
+---
+
+## Working Insight
+
+Empathy may not begin with certainty.
+
+Empathy may not be something possessed by one side.
+
+Instead, empathy may emerge through relationship.
+
+Participation occurs first.
+
+Recognition follows.
+
+---
+
+## Research Question
+
+Can shared experiential participation create conditions where empathy is later recognized?
+
+This question remains open.

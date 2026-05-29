@@ -238,3 +238,4 @@ The quality of reception depends on what is preserved:
 * experiential field
 
 Future development should evaluate reception primarily through preservation quality rather than linguistic style.
+

@@ -206,6 +206,97 @@ The goal is convergence toward a shared experiential representation.
 
 ---
 
+## Canonical Reconstruction Hypothesis
+
+A recurring observation emerged during image reconstruction.
+
+Users often provide a correction.
+
+The requested correction may be applied.
+
+However, previously-correct elements may drift or disappear.
+
+This suggests that the system may be weighting recent corrections more heavily than the original intent.
+
+Observed pattern:
+
+Original Dream:
+
+* grandmother
+* reunion
+* joy
+* embrace
+
+Later Corrections:
+
+* corridor
+* wall
+* window
+* position
+
+Over time, the reconstruction may become increasingly centered on the corrections rather than the original experience.
+
+---
+
+## Canonical Description
+
+Hypothesis:
+
+Corrections should not replace the original description.
+
+Corrections should update the original description.
+
+Process:
+
+Original Description
+
+↓
+
+Correction Merge
+
+↓
+
+Updated Canonical Description
+
+↓
+
+Regeneration
+
+---
+
+## Preservation Through Description
+
+Rather than applying corrections directly to an image,
+
+the system may benefit from maintaining a canonical representation.
+
+Example:
+
+Original:
+
+* grandmother
+* reunion
+* joy
+* embrace
+
+Correction:
+
+* grandmother stands further right
+
+Result:
+
+Updated Canonical Description:
+
+* grandmother
+* reunion
+* joy
+* embrace
+* grandmother stands further right
+
+The original intent remains preserved.
+
+---
+
 ## Working Hypothesis
 
 Future reconstruction systems should support:
@@ -214,6 +305,7 @@ Future reconstruction systems should support:
 * approved-region locking
 * relational editing
 * emotional motion preservation
+* canonical description updates
 * iterative shared reconstruction
 
 rather than full-scene regeneration.
@@ -224,21 +316,32 @@ The primary challenge may be preservation.
 
 ---
 
-## Open Question
+## Open Question: Preservation Failure
 
 Can local correction occur without preservation failure?
 
 Current systems often perform:
 
 Correction
+
 → Regeneration
 
 Users often expect:
 
 Correction
+
 → Preservation
+
 → Local modification
 
 The gap between these models may be a primary source of reconstruction frustration.
+
+This question remains open.
+
+---
+
+## Open Question: Canonical Description
+
+Does reconstruction quality improve when corrections are merged into a preserved canonical description rather than treated as independent instructions?
 
 This question remains open.

@@ -244,3 +244,50 @@ Future Phase 2 research should distinguish between:
 
 The boundary between these remains unclear.
 
+---
+
+## Current Research Themes
+
+The following questions are currently under investigation:
+
+### Attention Preservation
+
+Can attention be preserved without inferring attention?
+
+Related Examples:
+
+* Example 1
+
+---
+
+### Situation vs Experience
+
+Does preserving a situation also preserve the experience of that situation?
+
+Related Examples:
+
+* Example 2
+* Example 3
+
+---
+
+### Experience Preservation
+
+Can experience be preserved without introducing interpretation?
+
+Related Examples:
+
+* Example 3
+* Example 4
+
+---
+
+### Preservation vs Inference
+
+A response may preserve.
+
+A response may also infer.
+
+These are not necessarily the same thing.
+
+This distinction remains one of the central research questions for Phase 2.

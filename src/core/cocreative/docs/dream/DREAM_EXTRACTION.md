@@ -147,3 +147,93 @@ Possibilities:
 * emotion
 
 The answer remains open.
+
+---
+
+# Example 001
+
+## Scene
+
+Traditional Japanese tatami room.
+
+Kyoto-style atmosphere.
+
+---
+
+## Space
+
+Tatami room.
+
+Behind the room:
+
+* corridor
+* wall
+* windows
+
+The corridor runs parallel to the room divider.
+
+No visible garden.
+
+---
+
+## Position
+
+Dreamer:
+
+* lower body inside tatami
+* visible from waist up
+
+Grandmother:
+
+* standing in the room
+* positioned toward the far side of the room
+
+---
+
+## Motion
+
+Grandmother notices the dreamer.
+
+Grandmother begins moving toward the dreamer.
+
+Movement is:
+
+* walking quickly
+* not running
+
+The movement expresses joyful eagerness.
+
+---
+
+## Emotion
+
+Directly experienced:
+
+* joy
+* nostalgia
+* reunion
+
+Strong desire to embrace.
+
+---
+
+## Words
+
+Grandmother:
+
+"ようこ！"
+
+---
+
+## Shared Experience
+
+Grandmother and dreamer embrace.
+
+The embrace continues for a long time.
+
+Dreamer experiences:
+
+* deep nostalgia
+* deep joy
+
+The dream ends when the dreamer realizes the embrace could continue indefinitely.

@@ -37,15 +37,19 @@ but it removes the user's viewpoint:
 
 - 窓の外
 
-Better response:
+Candidate response:
 
 窓の外の雨に目が向いているのですね。
 
-Preserved:
+Potential Benefit:
 
-- rain
-- window/outside viewpoint
-- user's attention
+* preserves viewpoint
+* attempts attention preservation
+
+Potential Risk:
+
+* infers attention
+* may introduce interpretation
 
 ---
 
@@ -118,3 +122,69 @@ A Phase 2 response should be evaluated by:
 Phase 2 is exploratory.
 
 Do not change `reception.ts` yet.
+
+---
+
+## Example Review
+
+Phase 2 examples should be reviewed carefully.
+
+A response may appear receptive while still introducing interpretation.
+
+Example:
+
+Input:
+
+窓の外は雨
+
+Response:
+
+窓の外の雨に目が向いているのですね。
+
+Potential Issue:
+
+The phrase:
+
+"目が向いている"
+
+was not explicitly provided by the user.
+
+This may represent interpretation rather than preservation.
+
+Open Question:
+
+Can attention be preserved without inferring attention?
+
+This question remains open.
+
+---
+
+## Emerging Question
+
+A response may preserve attention.
+
+A response may also infer attention.
+
+These are not necessarily the same thing.
+
+Example:
+
+Input:
+
+窓の外は雨
+
+Response:
+
+窓の外の雨に目が向いているのですね。
+
+This may preserve attention.
+
+It may also infer attention.
+
+Future Phase 2 research should distinguish between:
+
+* attention preservation
+* attention inference
+
+The boundary between these remains unclear.
+

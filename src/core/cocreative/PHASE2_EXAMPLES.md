@@ -1,0 +1,120 @@
+# Phase 2 Reception Examples
+
+## Purpose
+
+This document collects examples for Phase 2 reception.
+
+Phase 2 is not implementation yet.
+
+It is a research space for studying:
+
+- attention preservation
+- viewpoint preservation
+- experiential field preservation
+
+---
+
+## Core Question
+
+Does the response preserve what the user was attending to?
+
+---
+
+## Example 1
+
+Input:
+
+窓の外は雨
+
+Weak response:
+
+雨が降っているんですね。
+
+Issue:
+
+This sounds natural,
+but it removes the user's viewpoint:
+
+- 窓の外
+
+Better response:
+
+窓の外の雨に目が向いているのですね。
+
+Preserved:
+
+- rain
+- window/outside viewpoint
+- user's attention
+
+---
+
+## Example 2
+
+Input:
+
+隣のビルが解体中。音がうるさい。
+
+Weak response:
+
+その音の中で、何か別の感覚が目を覚ましましたか？
+
+Issue:
+
+This adds poetic meaning.
+
+Better response:
+
+隣のビルの解体音が、かなり響いているのですね。
+
+Preserved:
+
+- neighboring building
+- demolition
+- loudness
+- immediate disturbance
+
+---
+
+## Example 3
+
+Input:
+
+雨が降ってきた
+
+Weak response:
+
+湿った空気が漂い、地面がしっとりと濡れていく。
+
+Issue:
+
+This adds atmosphere not given by the user.
+
+Better response:
+
+雨が降ってきたのですね。
+
+Preserved:
+
+- rain started
+- no added atmosphere
+
+---
+
+## Phase 2 Evaluation
+
+A Phase 2 response should be evaluated by:
+
+- Did it preserve the user's attention?
+- Did it preserve viewpoint?
+- Did it avoid new objects?
+- Did it avoid poetic inflation?
+- Did it avoid interpretation before reception?
+
+---
+
+## Current Status
+
+Phase 2 is exploratory.
+
+Do not change `reception.ts` yet.

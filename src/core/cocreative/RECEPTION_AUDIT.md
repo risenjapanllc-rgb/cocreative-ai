@@ -91,3 +91,23 @@ However it does not yet achieve:
 * zero insertion
 
 Future phases may further reduce overwrite risk.
+
+---
+
+## New Insight
+
+Reception quality should not be evaluated primarily by acknowledgment phrases.
+
+The phrase:
+
+"なのですね。"
+
+is currently a temporary deterministic marker.
+
+Future reception quality should be evaluated by:
+
+- preservation of attention
+- preservation of viewpoint
+- preservation of experiential continuity
+
+rather than by linguistic confirmation alone.

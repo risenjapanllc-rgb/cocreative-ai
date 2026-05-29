@@ -204,3 +204,70 @@ Recognition follows.
 Can shared experiential participation create conditions where empathy is later recognized?
 
 This question remains open.
+
+---
+
+## Empathy Timing
+
+Empathy may not always occur in the same way.
+
+Two patterns may exist.
+
+---
+
+### Synchronous Shared Experience
+
+People participate in the same event at the same time.
+
+Example:
+
+"わ〜〜〜！"
+
+"わ〜〜〜！"
+
+The shared experience already exists.
+
+Empathy appears immediate.
+
+The sequence becomes invisible.
+
+---
+
+### Reconstructed Shared Experience
+
+One person describes an experience.
+
+Another person gradually enters that experiential field.
+
+Example:
+
+A dream is shared.
+
+The listener approaches the dream through participation.
+
+The dreamer eventually feels understood.
+
+Only then does the listener realize that understanding may have occurred.
+
+In this case:
+
+Participation
+→ Recognition
+→ Empathy
+
+---
+
+## Working Insight
+
+Empathy may have temporal structure.
+
+Sometimes empathy appears instantaneous.
+
+Sometimes empathy emerges through participation and later recognition.
+
+The difference may depend on whether the experiential field is:
+
+* directly shared
+* reconstructed through dialogue
+
+This question remains open.

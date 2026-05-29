@@ -271,3 +271,16 @@ The difference may depend on whether the experiential field is:
 * reconstructed through dialogue
 
 This question remains open.
+
+---
+
+Understanding may not be the primary goal.
+
+Presence may come before understanding.
+
+A participant may feel understood
+because another participant remained present
+within the experiential field.
+
+Shared experiential participation may therefore
+be closer to shared presence than explanation.

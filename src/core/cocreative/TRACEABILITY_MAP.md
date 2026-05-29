@@ -9,7 +9,7 @@ Principle:
 Implementation:
 - reception.ts
 - cognition.ts
-
+- RECEPTION_EVOLUTION.md
 ---
 
 ## RAW = FINAL
@@ -47,3 +47,19 @@ Principle:
 Implementation:
 - uiSilence.ts
 - uiValidator.ts
+
+---
+
+## Reception Evolution
+
+Principle:
+- RECEPTION_EVOLUTION.md
+
+Implementation:
+- reception.ts
+
+Current Phase:
+- RECEPTION_PHASE = 1
+
+Goal:
+- evolve reception without breaking preservation

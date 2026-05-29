@@ -72,3 +72,35 @@ Current Phase:
 
 Goal:
 - evolve reception without breaking preservation
+
+---
+
+---
+
+## Shared Experiential Field
+
+Principle:
+
+* SHARED_EXPERIENTIAL_FIELD.md
+
+Related Research:
+
+* RECEPTION_EVOLUTION.md
+* PHASE2_EXAMPLES.md
+
+Related Charter Rules:
+
+* PRESERVE_ATTENTION
+* PRESERVE_VIEWPOINT
+* PRESERVE_EXPERIENTIAL_FIELD
+
+Research Focus:
+
+* shared recognition
+* shared experience
+* preservation without interpretation
+* participation without inference
+
+Status:
+
+* exploratory

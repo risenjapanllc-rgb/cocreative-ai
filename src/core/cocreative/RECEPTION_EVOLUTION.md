@@ -60,6 +60,17 @@ which is part of the user's original experiential frame.
 
 What should reception preserve?
 
+Current Working Direction:
+
+Reception appears to preserve not only language,
+but also:
+
+- attention
+- viewpoint
+- experiential field
+
+These may be more important than linguistic preservation alone.
+
 Possibilities include:
 
 * words

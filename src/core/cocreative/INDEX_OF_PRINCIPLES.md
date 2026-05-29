@@ -22,6 +22,7 @@ Core cognition structure.
 * RECEPTION_NOTES.md
 * RECEPTION_EVOLUTION.md
 * RECEPTION_AUDIT.md
+* PHASE2_EXAMPLES.md
 
 Reception before interpretation.
 

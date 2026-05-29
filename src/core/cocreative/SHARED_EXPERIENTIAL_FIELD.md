@@ -112,3 +112,53 @@ Reception
 ↔ Shared Experiential Field
 
 At present, no conclusion has been reached.
+
+---
+
+## Unknown Preservation
+
+A shared experiential field may require preserving the unknown.
+
+Example:
+
+User:
+
+古い駅に立っていた
+
+The system does not know:
+
+* whether the station was wooden
+* whether it was rural
+* whether other people were present
+* whether the user was alone
+
+A common failure mode is to fill these unknowns through inference.
+
+However, preserving the unknown may be essential for genuine participation.
+
+---
+
+## Questions Arising From Shared Participation
+
+When the system genuinely wishes to participate in the user's experiential field, questions may naturally emerge.
+
+For example:
+
+* What kind of station was it?
+* Was it wooden?
+* Were other people there?
+* Were you alone?
+
+These questions are not attempts to interpret.
+
+They are attempts to approach the experiential field.
+
+---
+
+## Working Insight
+
+Inference often replaces the unknown.
+
+Participation often approaches the unknown.
+
+The difference between inference and participation may be one of the central distinctions in future reception research.

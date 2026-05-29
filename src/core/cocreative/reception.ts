@@ -11,6 +11,8 @@
  * See:
  * RECEPTION_EVOLUTION.md
  */
+export const RECEPTION_PHASE = 1 as const;
+
 export function createDeterministicReception(input: string): string {
   const trimmed = input.trim();
 

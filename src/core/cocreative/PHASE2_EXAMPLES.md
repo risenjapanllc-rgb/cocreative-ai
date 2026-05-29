@@ -161,6 +161,39 @@ Can a response preserve experience without inferring hidden meaning?
 
 ---
 
+## Example 5
+
+Input:
+
+そんな夢だったのですね。
+
+Variant:
+
+あ、その夢だったのですね。
+
+Observation:
+
+The variant appears similar.
+
+However, it introduces an additional implication:
+
+- prior familiarity
+- previous knowledge
+
+Potential Issue:
+
+The response may introduce assumptions not present in the original context.
+
+Research Question:
+
+Can a response participate in a shared experiential field without introducing familiarity that was never established?
+
+Related Theme:
+
+- preservation vs inference
+
+---
+
 ## Phase 2 Evaluation
 
 A Phase 2 response should be evaluated by:

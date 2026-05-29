@@ -78,6 +78,20 @@ Preserved:
 - loudness
 - immediate disturbance
 
+Potential Question:
+
+Does the response preserve disturbance?
+
+Or does it merely restate the situation?
+
+The distinction between:
+
+* situation preservation
+* experience preservation
+
+remains unclear.
+
+
 ---
 
 ## Example 3
@@ -102,6 +116,37 @@ Preserved:
 
 - rain started
 - no added atmosphere
+
+---
+
+---
+
+## Example 4
+
+Input:
+
+今日は疲れた
+
+Candidate response:
+
+今日は疲れたのですね。
+
+Observation:
+
+This preserves language.
+
+However, it may not preserve attention.
+
+Open Questions:
+
+* What was the user attending to?
+* Is fatigue the focus?
+* Is the day itself the focus?
+* Is simple preservation sufficient?
+
+Research Question:
+
+Can a response preserve experience without inferring hidden meaning?
 
 ---
 

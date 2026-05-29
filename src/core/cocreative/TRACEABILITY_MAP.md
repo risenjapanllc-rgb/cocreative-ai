@@ -64,6 +64,9 @@ Principle:
 Implementation:
 - reception.ts
 
+Research:
+- PHASE2_EXAMPLES.md
+
 Current Phase:
 - RECEPTION_PHASE = 1
 

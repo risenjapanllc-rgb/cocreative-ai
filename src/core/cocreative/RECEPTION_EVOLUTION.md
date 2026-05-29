@@ -166,3 +166,26 @@ The system should therefore distinguish between:
 - experiential preservation
 
 These may overlap, but they are not always identical.
+
+---
+
+## Reception Quality
+
+Reception quality is not determined by acknowledgment phrases.
+
+受容の質は、
+「なのですね」のような確認語尾では決まらない。
+
+A response feels receptive when it preserves:
+
+- the user's field of attention
+- the user's viewpoint
+- the experiential frame
+- what the user was actually attending to
+
+The phrase after reception matters more than the acknowledgment phrase itself.
+
+For example:
+
+```text
+窓の外は雨

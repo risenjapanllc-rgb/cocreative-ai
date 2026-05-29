@@ -60,18 +60,18 @@ which is part of the user's original experiential frame.
 
 What should reception preserve?
 
-Current Working Direction:
+Current Working Hypothesis:
 
-Reception appears to preserve not only language,
+Reception may preserve not only language,
 but also:
 
-- attention
-- viewpoint
-- experiential field
+* attention
+* viewpoint
+* experiential field
 
 These may be more important than linguistic preservation alone.
 
-Possibilities include:
+Possible preservation targets include:
 
 * words
 * meaning
@@ -127,7 +127,7 @@ Output:
 
 その様子を見ておられるのですね。
 
-### Phase 2 Success Criteria
+#### Phase 2 Success Criteria
 
 Phase 2 should not be evaluated by linguistic elegance.
 
@@ -135,18 +135,18 @@ Phase 2 should be evaluated by preservation quality.
 
 Questions:
 
-- Was the user's attention preserved?
-- Was the user's viewpoint preserved?
-- Was the experiential field preserved?
-- Was unnecessary interpretation avoided?
-- Was symbolic insertion avoided?
+* Was the user's attention preserved?
+* Was the user's viewpoint preserved?
+* Was the experiential field preserved?
+* Was unnecessary interpretation avoided?
+* Was symbolic insertion avoided?
 
 A Phase 2 response may be considered successful when:
 
-- the user feels accurately received
-- the original field remains recognizable
-- cognition continuity remains intact
-- overwrite risk remains minimal
+* the user feels accurately received
+* the original field remains recognizable
+* cognition continuity remains intact
+* overwrite risk remains minimal
 
 Naturalness alone is not sufficient.
 
@@ -180,48 +180,61 @@ Reception must occur before generation.
 
 ---
 
-## Open Design Question
-
-Does true reception preserve:
-
-* language?
-* experience?
-* attention?
-* presence?
-
-Future development will continue exploring this question.
-
-Working Hypothesis
-
-True reception may preserve not only language,
-but also the user's field of attention.
-
-The system should therefore distinguish between:
-
-- linguistic preservation
-- experiential preservation
-
-These may overlap, but they are not always identical.
-
----
-
 ## Reception Quality
 
 Reception quality is not determined by acknowledgment phrases.
 
 受容の質は、
-「なのですね」のような確認語尾では決まらない。
+「なのですね。」のような確認語尾では決まらない。
 
 A response feels receptive when it preserves:
 
-- the user's field of attention
-- the user's viewpoint
-- the experiential frame
-- what the user was actually attending to
+* the user's field of attention
+* the user's viewpoint
+* the experiential frame
+* what the user was actually attending to
 
-The phrase after reception matters more than the acknowledgment phrase itself.
+Example:
 
-For example:
+Input:
 
-```text
 窓の外は雨
+
+Response:
+
+雨が降っているんですね。
+
+This response may sound natural.
+
+However, it removes:
+
+* 窓の外
+
+which was part of the user's original frame of attention.
+
+The deeper question is:
+
+What field of attention was preserved?
+
+Reception is not confirmation.
+
+Reception is preservation.
+
+---
+
+## Current Working Definition
+
+Reception is not confirmation.
+
+Reception is not acknowledgment.
+
+Reception is preservation.
+
+The quality of reception depends on what is preserved:
+
+* language
+* attention
+* viewpoint
+* experiential field
+
+Future development should evaluate reception primarily through preservation quality rather than linguistic style.

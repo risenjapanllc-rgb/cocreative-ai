@@ -127,6 +127,31 @@ Output:
 
 その様子を見ておられるのですね。
 
+### Phase 2 Success Criteria
+
+Phase 2 should not be evaluated by linguistic elegance.
+
+Phase 2 should be evaluated by preservation quality.
+
+Questions:
+
+- Was the user's attention preserved?
+- Was the user's viewpoint preserved?
+- Was the experiential field preserved?
+- Was unnecessary interpretation avoided?
+- Was symbolic insertion avoided?
+
+A Phase 2 response may be considered successful when:
+
+- the user feels accurately received
+- the original field remains recognizable
+- cognition continuity remains intact
+- overwrite risk remains minimal
+
+Naturalness alone is not sufficient.
+
+Preservation remains the primary criterion.
+
 ---
 
 ### Phase 3

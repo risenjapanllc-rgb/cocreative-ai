@@ -123,3 +123,139 @@ Current systems appear to prioritize meaning preservation.
 However, experiential reconstruction often depends heavily on structural preservation.
 
 Future reconstruction systems may need to explicitly track and preserve both.
+
+---
+
+---
+
+## Canonical Update Process
+
+An additional observation emerged during dream reconstruction.
+
+Corrections should not accumulate as separate instructions.
+
+Instead, corrections should be merged into the current canonical description.
+
+Observed process:
+
+Original Description
+
+↓
+
+Correction
+
+↓
+
+Canonical Description Update
+
+↓
+
+Regeneration
+
+↓
+
+Correction
+
+↓
+
+Canonical Description Update
+
+↓
+
+Regeneration
+
+---
+
+## Accumulation Problem
+
+A common failure mode occurs when corrections are simply appended.
+
+Example:
+
+Original Dream
+
+*
+
+Correction 1
+
+*
+
+Correction 2
+
+*
+
+Correction 3
+
+*
+
+Correction 4
+
+As corrections accumulate, the relationship between the original experience and the latest instructions becomes increasingly unclear.
+
+The reconstruction process begins to drift.
+
+---
+
+## Integration Rather Than Addition
+
+Corrections should be integrated into the canonical description.
+
+Not stored as independent fragments.
+
+Example:
+
+Original:
+
+"The corridor is behind the shoji."
+
+Correction:
+
+"The corridor runs parallel to the shoji."
+
+Result:
+
+Updated Canonical Description:
+
+"A narrow corridor runs parallel to the shoji."
+
+The correction replaces ambiguity.
+
+It does not create a competing instruction.
+
+---
+
+## Reconstruction-Oriented Rewriting
+
+Canonical updates may require rewriting.
+
+The goal is not literal preservation of wording.
+
+The goal is preservation of meaning and structure.
+
+A correction may therefore be rewritten into a form that is easier for both humans and AI systems to interpret.
+
+Example:
+
+Correction:
+
+"The corridor is not going away from the room."
+
+Canonical Update:
+
+"The corridor runs horizontally parallel to the shoji and does not extend into the distance."
+
+Meaning is preserved.
+
+Interpretability is improved.
+
+---
+
+## Working Hypothesis
+
+Shared reconstruction may benefit from maintaining a single evolving canonical description.
+
+Participants contribute corrections.
+
+The canonical description absorbs those corrections.
+
+Future reconstructions are generated from the updated canonical description rather than from a collection of accumulated correction fragments.

@@ -85,6 +85,8 @@ Approved Elements
 
 Reconstruction Constraints
 
+Canonical Elements
+
 ---
 
 ### Significance
@@ -160,6 +162,23 @@ Examples:
 - emotional tone remains consistent
 
 Constraints prevent reconstruction drift and preserve dream continuity.
+
+---
+
+### Canonical Elements
+
+Represents dream elements that define the core identity of the dream.
+
+Examples:
+
+- central relationships
+- defining words
+- decisive moments
+- core emotional themes
+
+Canonical Elements should remain stable across all reconstructions.
+
+Changing a canonical element may result in a fundamentally different dream.
 
 ---
 

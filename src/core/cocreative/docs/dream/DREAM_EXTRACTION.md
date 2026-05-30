@@ -77,6 +77,10 @@ Open Questions
 
 Resolved Questions
 
+Contradictions
+
+---
+
 ### Significance
 
 Represents how important an element is to the meaning of the dream.
@@ -86,6 +90,23 @@ An element may be remembered clearly while having limited significance.
 Likewise, an element may carry deep significance even when remembered only partially.
 
 Significance helps identify what should be preserved during reconstruction.
+
+---
+
+### Contradictions
+
+Represents conflicts between remembered experience and current reconstruction.
+
+Examples:
+
+- incorrect character position
+- incorrect spatial relationships
+- incorrect motion
+- incorrect viewpoint
+
+Contradictions identify reconstruction errors that require correction.
+
+Unlike Open Questions, contradictions occur when a reconstructed element conflicts with an already remembered detail.
 
 ---
 

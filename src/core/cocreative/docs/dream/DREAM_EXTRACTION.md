@@ -242,28 +242,55 @@ The dream ends when the dreamer realizes the embrace could continue indefinitely
 
 ## Dream Extraction Schema
 
+### Meaning Layer
+
 Theme
-
 Relationships
-
 Intentions
+
+### Entity Layer
 
 Characters
 
+### World Layer
+
 Space
-
 Viewpoint
-
 Positions
 
+Persistent Objects
+
+### Experience Layer
+
 Motion
-
 Words
-
 Emotion
 
-Persistent Objects
+### Reconstruction Layer
 
 Decisive Moment
 
 Memory Strength
+Uncertainty
+
+Open Questions
+
+---
+
+Theme:
+  reunion_with_love
+  importance: 100
+  certainty: 95
+
+Word:
+  "ようこ！"
+  importance: 98
+  certainty: 90
+
+Corridor:
+  importance: 85
+  certainty: 75
+
+Window:
+  importance: 30
+  certainty: 40

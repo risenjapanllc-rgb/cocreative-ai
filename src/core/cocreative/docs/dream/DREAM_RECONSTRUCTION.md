@@ -768,3 +768,147 @@ Different elements should change at different rates.
 The challenge is not determining whether something moves.
 
 The challenge is determining what must remain continuous across scenes.
+
+---
+
+## Scene Sequences and Implied Motion
+
+An important observation emerged during dream reconstruction.
+
+The goal may not be video generation.
+
+The goal may be continuity preservation.
+
+---
+
+## The Illusion of Motion
+
+Human beings can perceive motion from a sequence of still images.
+
+This occurs when continuity is preserved.
+
+Examples:
+
+* the same environment
+* the same objects
+* the same characters
+* coherent spatial relationships
+
+When continuity is maintained, separate moments become a single experience.
+
+---
+
+## Scene Sequence Reconstruction
+
+Dream reconstruction may benefit from generating a sequence of decisive moments.
+
+Example:
+
+Scene 1
+
+The dreamer sees the gate from inside the car.
+
+↓
+
+Scene 2
+
+The dreamer walks toward the gate.
+
+↓
+
+Scene 3
+
+The dreamer stands before the gate.
+
+Each scene is a still image.
+
+However, continuity allows the scenes to be experienced as a single unfolding event.
+
+---
+
+## Continuity Requirements
+
+Scene sequences require:
+
+* Canonical Description
+* Canonical Dream World
+* Persistence Layers
+
+Without these elements, consecutive scenes may become fragmented.
+
+Objects change.
+
+Architecture changes.
+
+World structure changes.
+
+The sequence loses coherence.
+
+---
+
+## Decisive Moments
+
+Not every moment needs to be reconstructed.
+
+Some moments carry the emotional meaning of an entire dream.
+
+These moments act as anchors within the sequence.
+
+Example:
+
+A grandmother sees her granddaughter.
+
+"Yoko!"
+
+The image captures a single moment.
+
+Yet the observer can sense:
+
+* the moments before
+* the approach
+* the embrace that follows
+
+The moment implies a larger story.
+
+---
+
+## Working Hypothesis
+
+Dream reconstruction may not require continuous video generation.
+
+A coherent sequence of decisive moments may be sufficient to recreate the experience of continuity.
+
+The objective may therefore be:
+
+Dream
+
+↓
+
+Canonical Dream World
+
+↓
+
+Persistence Layers
+
+↓
+
+Decisive Moments
+
+↓
+
+Scene Sequence
+
+↓
+
+Experiential Recollection
+
+rather than:
+
+Dream
+
+↓
+
+Video Generation
+
+```
+```

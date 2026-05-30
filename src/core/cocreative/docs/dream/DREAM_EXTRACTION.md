@@ -36,6 +36,8 @@ Intentions
 
 Characters
 
+Identity Persistence
+
 ### World Layer
 
 Space
@@ -260,6 +262,24 @@ Examples:
 * child
 * stranger
 * animal
+
+---
+
+### Identity Persistence
+
+Represents continuity of identity independent of appearance.
+
+Dream participants may remain recognizable even when their appearance differs from waking reality.
+
+Examples:
+
+- younger version of a known person
+- different appearance but same identity
+- symbolic appearance with stable recognition
+
+Identity persistence should be preserved during reconstruction.
+
+Dream identity is often more important than physical appearance.
 
 ---
 

@@ -48,6 +48,8 @@ Persistent Objects
 
 ### Experience Layer
 
+Temporal Structure
+
 Motion
 
 Words
@@ -186,6 +188,28 @@ Examples:
 * architectural structures
 
 Persistent objects support continuity during reconstruction.
+
+---
+
+### Temporal Structure
+
+Represents the temporal ordering of dream events.
+
+Dream experiences often unfold as sequences rather than isolated images.
+
+Temporal Structure preserves how events emerged within the dream.
+
+Understanding temporal structure helps maintain continuity during reconstruction.
+
+Examples:
+
+* arrival
+* recognition
+* conversation
+* approach
+* embrace
+* departure
+* awakening
 
 ---
 
@@ -347,6 +371,17 @@ tatami
 shoji
 corridor
 windows
+
+Temporal Structure:
+
+1. Grandmother enters the room.
+2. Grandmother notices the dreamer.
+3. Grandmother's expression brightens.
+4. Grandmother says "Yoko!"
+5. Grandmother approaches the dreamer.
+6. Grandmother embraces the dreamer.
+7. The embrace continues.
+8. The dreamer awakens.
 
 Motion:
 grandmother walking quickly toward the dreamer

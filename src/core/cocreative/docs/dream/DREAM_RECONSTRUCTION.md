@@ -1163,3 +1163,176 @@ A reconstruction may appear visually accurate while failing to preserve relation
 Conversely, a reconstruction that preserves relational meaning may still feel authentic even when some visual details differ.
 
 The deepest continuity of a dream may reside not in objects, but in relationships.
+
+---
+
+## Intentions and Directionality
+
+An important observation emerged during dream reconstruction.
+
+Actions alone may not adequately describe dream meaning.
+
+The same action can arise from very different intentions.
+
+---
+
+## Beyond Motion
+
+Example:
+
+A person moves toward another person.
+
+Observed motion:
+
+* walking
+* running
+* approaching
+
+These descriptions capture movement.
+
+However they do not explain why the movement exists.
+
+Dream meaning often depends on intention rather than motion alone.
+
+---
+
+## Intention as Hidden Structure
+
+Example:
+
+Approaching another person.
+
+Possible intentions:
+
+* embrace
+* comfort
+* guide
+* warn
+* attack
+* welcome
+* reunite
+
+The physical motion may appear similar.
+
+The meaning changes completely.
+
+---
+
+## Example: Grandmother Dream
+
+Observed Motion:
+
+Grandmother walks quickly toward her granddaughter.
+
+This description is incomplete.
+
+Observed Intention:
+
+* recognition
+* joy
+* reunion
+* desire to embrace
+
+The emotional meaning of the dream originates primarily from intention rather than speed.
+
+The distinction between running and walking quickly became important because different intentions were implied.
+
+Running suggested urgency or pursuit.
+
+Walking quickly suggested joyful approach and loving anticipation.
+
+---
+
+## Intentions and Relationships
+
+Intentions often arise within relationships.
+
+Example:
+
+Grandmother
+
+↓
+
+Recognizes granddaughter
+
+↓
+
+Desires reunion
+
+↓
+
+Approaches
+
+↓
+
+Embraces
+
+The visible action is only the final expression of an underlying relational intention.
+
+---
+
+## Intentions and Theme
+
+Themes may generate intentions.
+
+Example:
+
+Theme:
+
+Reunion with enduring love
+
+↓
+
+Relationship:
+
+Grandmother ↔ Granddaughter
+
+↓
+
+Intention:
+
+Move toward one another
+
+↓
+
+Action:
+
+Approach
+
+↓
+
+Moment:
+
+"Yoko!"
+
+Intentions therefore act as a bridge between meaning and visible behavior.
+
+---
+
+## Working Hypothesis
+
+Dream reconstruction may benefit from preserving:
+
+Theme
+
+↓
+
+Relationships
+
+↓
+
+Intentions
+
+↓
+
+Actions
+
+↓
+
+Motion
+
+Different motions may appear visually similar.
+
+Different intentions rarely feel the same.
+
+The continuity of a dream may depend more on preserving intention than on preserving movement.

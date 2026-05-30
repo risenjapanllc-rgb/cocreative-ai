@@ -448,3 +448,47 @@ Interpretation
 ↓
 
 Reconstruction
+
+---
+
+## Theory-Practice Feedback Loop
+
+An observation emerged during collaborative reconstruction.
+
+Concepts such as:
+
+- preservation before modification
+- canonical description
+- correction merge
+
+did not originate as abstract theories.
+
+They emerged from reconstruction attempts and were subsequently tested through further reconstruction.
+
+Observed pattern:
+
+Experience
+
+↓
+
+Observation
+
+↓
+
+Hypothesis
+
+↓
+
+Reconstruction
+
+↓
+
+New Observation
+
+↓
+
+Refined Hypothesis
+
+Shared reconstruction may therefore develop through a continuous feedback loop between theory and practice.
+
+The recurrence of the same patterns across multiple reconstruction attempts may indicate that the underlying principles are converging toward something stable.

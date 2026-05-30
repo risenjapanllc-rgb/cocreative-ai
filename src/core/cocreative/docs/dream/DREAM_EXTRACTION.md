@@ -71,6 +71,8 @@ Memory Strength
 
 Uncertainty
 
+Significance
+
 Open Questions
 
 Resolved Questions

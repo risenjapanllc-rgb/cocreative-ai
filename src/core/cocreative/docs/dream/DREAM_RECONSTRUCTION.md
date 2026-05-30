@@ -912,3 +912,111 @@ Video Generation
 
 ```
 ```
+
+---
+
+## Viewpoint and Consciousness Position
+
+An additional observation emerged during dream reconstruction.
+
+Viewpoint is not merely a camera position.
+
+In dreams, viewpoint often represents the position of consciousness.
+
+The dreamer may experience the same world through different forms of awareness.
+
+---
+
+## First-Person Viewpoint
+
+Examples:
+
+* seeing through one's own eyes
+* direct participation
+* no external view of oneself
+
+The dreamer experiences the world from within the scene.
+
+---
+
+## Third-Person Viewpoint
+
+Examples:
+
+* observing oneself from outside
+* seeing one's own body
+* cinematic perspective
+
+The dreamer experiences the scene as both participant and observer.
+
+---
+
+## Floating Viewpoint
+
+Examples:
+
+* viewing from above
+* hovering perspectives
+* out-of-body experiences
+
+The viewpoint is detached from physical position.
+
+---
+
+## Omniscient Viewpoint
+
+Examples:
+
+* awareness of multiple locations
+* awareness of multiple participants
+* awareness beyond ordinary visual perspective
+
+The dream contains information unavailable from a single physical location.
+
+---
+
+## Shifting Viewpoint
+
+Dreams may transition between viewpoints.
+
+Examples:
+
+First Person
+
+↓
+
+Third Person
+
+↓
+
+Floating Perspective
+
+The dream world remains continuous while the position of awareness changes.
+
+---
+
+## Viewpoint and Reconstruction
+
+Viewpoint strongly influences:
+
+* spatial relationships
+* object visibility
+* character placement
+* scene composition
+
+The same dream world may produce very different images depending on viewpoint.
+
+Therefore viewpoint should be treated as a primary reconstruction element rather than a secondary rendering choice.
+
+---
+
+## Working Hypothesis
+
+Dream reconstruction may require preservation of both:
+
+* Dream World
+* Consciousness Position
+
+A dream image is not only a representation of a world.
+
+It is a representation of where awareness existed within that world.

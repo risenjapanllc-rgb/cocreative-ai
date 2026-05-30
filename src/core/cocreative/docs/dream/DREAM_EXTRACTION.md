@@ -83,6 +83,8 @@ Reconstruction Goals
 
 Approved Elements
 
+Reconstruction Constraints
+
 ---
 
 ### Significance
@@ -143,6 +145,21 @@ Examples:
 - approved object placement
 
 Approved Elements reduce reconstruction drift and support preservation before modification.
+
+---
+
+### Reconstruction Constraints
+
+Represents conditions that must remain true during reconstruction.
+
+Examples:
+
+- character remains inside the room
+- corridor remains parallel to the shoji
+- garden remains invisible
+- emotional tone remains consistent
+
+Constraints prevent reconstruction drift and preserve dream continuity.
 
 ---
 

@@ -1336,3 +1336,56 @@ Different motions may appear visually similar.
 Different intentions rarely feel the same.
 
 The continuity of a dream may depend more on preserving intention than on preserving movement.
+
+---
+
+## Research Note: Position vs Trajectory
+
+During reconstruction of the grandmother dream, a recurring issue emerged.
+
+Character position alone was insufficient.
+
+Motion alone was also insufficient.
+
+A reconstruction may preserve:
+
+* character position
+* character motion
+
+while still producing an incorrect sense of movement.
+
+Example:
+
+The grandmother was approaching Yoko.
+
+However, the generated scene implied an incorrect path of approach.
+
+The problem was not merely where the grandmother was located.
+
+The problem was where she had come from and where she was going.
+
+Possible concept:
+
+Trajectory
+
+Trajectory may represent:
+
+* origin
+* current position
+* destination
+
+Example:
+
+Origin:
+left side room entrance
+
+Current Position:
+inside tatami room
+
+Destination:
+Yoko
+
+Open Question:
+
+Should trajectory become a separate extraction layer, or can it be represented through Position, Motion, and Temporal Structure?
+

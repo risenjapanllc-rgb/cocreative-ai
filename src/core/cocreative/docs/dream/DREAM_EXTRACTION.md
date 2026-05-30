@@ -81,6 +81,8 @@ Contradictions
 
 Reconstruction Goals
 
+Approved Elements
+
 ---
 
 ### Significance
@@ -126,6 +128,21 @@ Examples:
 Reconstruction Goals help guide iterative refinement.
 
 Unlike Open Questions, goals describe desired outcomes rather than missing information.
+
+---
+
+### Approved Elements
+
+Represents dream elements that have been confirmed and should remain stable during reconstruction.
+
+Examples:
+
+- approved character appearance
+- approved spatial layout
+- approved emotional tone
+- approved object placement
+
+Approved Elements reduce reconstruction drift and support preservation before modification.
 
 ---
 

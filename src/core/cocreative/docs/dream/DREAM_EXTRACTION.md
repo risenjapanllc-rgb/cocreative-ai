@@ -42,6 +42,8 @@ Space
 
 Viewpoint
 
+Dream Logic
+
 Positions
 
 Persistent Objects
@@ -327,6 +329,66 @@ Viewpoint influences:
 The same dream event may feel completely different when experienced from a different viewpoint.
 
 Preserving viewpoint is therefore essential for preserving dream experience.
+
+---
+
+### Dream Logic
+
+Represents the internal rules that felt natural within the dream world.
+
+Dream logic may differ from waking reality.
+
+Events that would appear impossible in ordinary life may feel completely natural during the dream.
+
+Examples:
+
+* appearing in another location instantly
+* speaking with someone who has died
+* existing partly inside an object or structure
+* impossible spatial arrangements
+* unusual transitions between scenes
+
+Dream logic should be preserved rather than corrected.
+
+The goal of reconstruction is not to make the dream realistic.
+
+The goal is to preserve how reality functioned within the dream itself.
+
+---
+
+Examples:
+
+Dream Memory:
+
+The dreamer existed with only the upper body emerging from the tatami.
+
+Waking Logic:
+
+Impossible.
+
+Dream Logic:
+
+Completely natural and unquestioned.
+
+---
+
+Dream Memory:
+
+A deceased grandmother appears and interacts normally.
+
+Waking Logic:
+
+Impossible.
+
+Dream Logic:
+
+Natural and emotionally coherent.
+
+---
+
+Dream logic is often essential to preserving dream identity.
+
+Removing dream logic may preserve visual accuracy while losing the experience itself.
 
 ---
 

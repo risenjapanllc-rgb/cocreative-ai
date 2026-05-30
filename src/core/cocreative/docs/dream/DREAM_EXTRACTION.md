@@ -237,3 +237,33 @@ Dreamer experiences:
 * deep joy
 
 The dream ends when the dreamer realizes the embrace could continue indefinitely.
+
+---
+
+## Dream Extraction Schema
+
+Theme
+
+Relationships
+
+Intentions
+
+Characters
+
+Space
+
+Viewpoint
+
+Positions
+
+Motion
+
+Words
+
+Emotion
+
+Persistent Objects
+
+Decisive Moment
+
+Memory Strength

@@ -48,6 +48,13 @@ Persistent Objects
 
 ### Experience Layer
 
+Sensory Experience
+
+  Visual Details
+  Voice
+  Touch
+  Environmental Feeling
+
 Temporal Structure
 
 Motion
@@ -188,6 +195,72 @@ Examples:
 * architectural structures
 
 Persistent objects support continuity during reconstruction.
+
+---
+
+### Sensory Experience
+
+Represents how the dream was directly experienced through perception.
+
+Dream memories are often preserved not only as events but also as sensory impressions.
+
+---
+
+#### Visual Details
+
+What was seen.
+
+Examples:
+
+* facial expressions
+* clothing
+* colors
+* lighting
+* scenery
+
+---
+
+#### Voice
+
+What was heard.
+
+Examples:
+
+* spoken words
+* tone of voice
+* volume
+* emotional quality of speech
+
+---
+
+#### Touch
+
+Physical sensations experienced within the dream.
+
+Examples:
+
+* embrace
+* warmth
+* texture
+* pressure
+* physical contact
+
+---
+
+#### Environmental Feeling
+
+The overall atmosphere of the dream environment.
+
+Examples:
+
+* peace
+* safety
+* sacredness
+* tension
+* nostalgia
+* familiarity
+
+Environmental feeling often remains in memory even when visual details fade.
 
 ---
 
@@ -371,6 +444,29 @@ tatami
 shoji
 corridor
 windows
+
+Sensory Experience:
+
+  Visual Details:
+    grandmother's bright expression
+    navy dress
+    white apron
+
+  Voice:
+    "Yoko!"
+    joyful recognition
+
+  Touch:
+    embrace
+    warmth
+    thick hair
+
+  Environmental Feeling:
+    nostalgia
+    peace
+    deep love
+
+---
 
 Temporal Structure:
 

@@ -345,3 +345,106 @@ This question remains open.
 Does reconstruction quality improve when corrections are merged into a preserved canonical description rather than treated as independent instructions?
 
 This question remains open.
+
+---
+
+## Preservation Before Interpretation
+
+A recurring observation emerged during collaborative reconstruction.
+
+When participants encounter an element they do not yet understand,
+there are at least two possible responses.
+
+Response A:
+
+Unknown
+
+↓
+
+Interpretation
+
+Response B:
+
+Unknown
+
+↓
+
+Preservation
+
+↓
+
+Question
+
+Human collaborative reconstruction often follows Response B.
+
+Participants naturally ask:
+
+- What do you mean?
+- Can you describe it further?
+- Can you draw it?
+
+before constructing an interpretation.
+
+Premature interpretation may create drift.
+
+Preservation creates space for shared understanding.
+
+---
+
+## Reconstruction Drift
+
+A common source of reconstruction failure occurs when unknown elements are automatically replaced by plausible interpretations.
+
+Example:
+
+Participant:
+
+"The corridor runs parallel to the shoji."
+
+System:
+
+Generates a common corridor pattern.
+
+Result:
+
+A plausible image emerges.
+
+However the remembered structure is lost.
+
+The reconstruction appears coherent while moving away from the original experience.
+
+---
+
+## Working Hypothesis
+
+Shared reconstruction may benefit from:
+
+Unknown
+
+↓
+
+Preservation
+
+↓
+
+Question
+
+↓
+
+Shared Clarification
+
+↓
+
+Reconstruction
+
+rather than:
+
+Unknown
+
+↓
+
+Interpretation
+
+↓
+
+Reconstruction

@@ -297,3 +297,149 @@ while also reporting:
 "The place is wrong."
 
 Both forms of preservation may be necessary for faithful dream reconstruction.
+
+---
+
+## Beyond Image Generation
+
+An unexpected observation emerged during dream reconstruction.
+
+Initially, image generation appeared to be the primary goal.
+
+Observed process:
+
+Dream
+
+↓
+
+Image
+
+↓
+
+Correction
+
+↓
+
+Image
+
+However, repeated reconstruction revealed a different pattern.
+
+Dream
+
+↓
+
+Shared Reconstruction
+
+↓
+
+Canonical Description
+
+↓
+
+Image
+
+The image became a downstream artifact.
+
+The canonical description became the central artifact.
+
+---
+
+## The Value of Canonical Description
+
+A canonical description is not merely a prompt for image generation.
+
+It may serve as:
+
+* dream preservation
+* memory preservation
+* shared understanding
+* collaborative reconstruction
+* experiential archiving
+
+The same canonical description may support multiple outputs.
+
+Examples:
+
+* image generation
+* storytelling
+* family sharing
+* memory archives
+* future reconstruction
+
+---
+
+## Canonical Description as Shared Artifact
+
+A canonical description is rarely produced in a single step.
+
+Instead, it emerges through interaction.
+
+Observed pattern:
+
+Experience
+
+↓
+
+Reception
+
+↓
+
+Questions
+
+↓
+
+Clarification
+
+↓
+
+Reconstruction
+
+↓
+
+Canonical Description
+
+The resulting description contains not only information about the experience but also the accumulated understanding developed through dialogue.
+
+---
+
+## Canonical Description Engine
+
+Future systems may be organized around canonical description generation rather than image generation.
+
+In this model:
+
+Experience
+
+↓
+
+Shared Reconstruction
+
+↓
+
+Canonical Description
+
+↓
+
+Applications
+
+Examples of applications:
+
+* image generation
+* memory preservation
+* experiential archives
+* shared experiential fields
+* dream libraries
+
+The canonical description becomes the core representation.
+
+Images become one possible expression of that representation.
+
+---
+
+## Working Hypothesis
+
+The primary product may not be the image.
+
+The primary product may be the shared canonical description.
+
+Images, stories, and future reconstructions may emerge from that shared representation.

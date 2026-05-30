@@ -595,3 +595,176 @@ The goal of dream reconstruction may not be the generation of isolated images.
 The goal may be the reconstruction of a coherent dream world from which meaningful moments can be extracted.
 
 A decisive moment gains meaning because it belongs to a continuous world.
+
+---
+
+## Persistence Layers
+
+An additional observation emerged during dream world reconstruction.
+
+Objects do not simply belong to two categories:
+
+* moving
+* non-moving
+
+Instead, dream worlds appear to contain multiple layers of persistence.
+
+Different elements maintain continuity in different ways.
+
+---
+
+## World Structure Layer
+
+Examples:
+
+* mountains
+* terrain
+* coastlines
+* roads
+* large buildings
+* bridges
+
+These elements form the stable structure of the dream world.
+
+They rarely change between scenes.
+
+---
+
+## Architectural Layer
+
+Examples:
+
+* tatami
+* shoji
+* corridors
+* windows
+* pillars
+* furniture
+
+These elements provide local spatial continuity.
+
+Viewpoints may change.
+
+The structures themselves typically remain stable.
+
+---
+
+## Persistent Object Layer
+
+Examples:
+
+* gates
+* signs
+* vehicles
+* boxes
+* statues
+* clocks
+
+These objects may appear from different viewpoints.
+
+However they remain identifiable as the same object.
+
+Object identity persists across scenes.
+
+---
+
+## Living Object Layer
+
+Examples:
+
+* people
+* animals
+* birds
+* fish
+
+These elements move and change position.
+
+Their identity persists while their state changes.
+
+---
+
+## Dynamic Phenomena Layer
+
+Examples:
+
+* waves
+* wind
+* smoke
+* rain
+* fire
+* clouds
+* light
+
+These elements are inherently dynamic.
+
+They are not defined by persistence of form.
+
+They are defined by continuity of process.
+
+---
+
+## Example: Sea and Waves
+
+The sea illustrates multiple persistence layers.
+
+From a distance:
+
+Sea
+
+↓
+
+World Structure
+
+From nearby:
+
+Wave
+
+↓
+
+Dynamic Phenomenon
+
+The same scene may therefore contain both stable and changing components simultaneously.
+
+---
+
+## Persistence-Based Reconstruction
+
+Dream reconstruction may benefit from tracking persistence levels rather than using a simple distinction between moving and non-moving objects.
+
+Examples:
+
+Mountain
+
+Persistence: Very High
+
+Tatami
+
+Persistence: High
+
+Gate
+
+Persistence: High
+
+Person
+
+Persistence: Medium
+
+Hair
+
+Persistence: Low
+
+Wave
+
+Persistence: Very Low
+
+---
+
+## Working Hypothesis
+
+A coherent dream world may require preservation of persistence layers.
+
+Different elements should change at different rates.
+
+The challenge is not determining whether something moves.
+
+The challenge is determining what must remain continuous across scenes.

@@ -22,230 +22,14 @@ Observe before generating.
 
 ---
 
-## Extraction Layers
-
-Dreams may contain multiple layers.
-
-These layers should be separated whenever possible.
-
-### Scene
-
-What kind of place appeared?
-
-Examples:
-
-* traditional Japanese room
-* train station
-* school
-* ocean
-
----
-
-### Space
-
-How was the space structured?
-
-Examples:
-
-* room
-* corridor
-* window
-* wall
-* garden
-
-Focus:
-
-spatial relationships
-
-not interpretation.
-
----
-
-### Position
-
-Where was each participant?
-
-Examples:
-
-* dreamer
-* grandmother
-* stranger
-* animal
-
-Focus:
-
-relative position
-
-not meaning.
-
----
-
-### Motion
-
-What movement occurred?
-
-Examples:
-
-* walking
-* running
-* approaching
-* turning
-* standing
-
-Focus:
-
-movement quality
-
-not symbolic interpretation.
-
----
-
-### Emotion
-
-What was directly experienced?
-
-Examples:
-
-* joy
-* fear
-* surprise
-* nostalgia
-* peace
-
-Focus:
-
-experienced emotion
-
-not inferred meaning.
-
----
-
-## Working Hypothesis
-
-Dream reconstruction may require:
-
-1. Scene extraction
-2. Space extraction
-3. Position extraction
-4. Motion extraction
-5. Emotion extraction
-
-before interpretation occurs.
-
----
-
-## Open Question
-
-Which layer is most important for preserving dream experience?
-
-Possibilities:
-
-* scene
-* space
-* position
-* motion
-* emotion
-
-The answer remains open.
-
----
-
-# Example 001
-
-## Scene
-
-Traditional Japanese tatami room.
-
-Kyoto-style atmosphere.
-
----
-
-## Space
-
-Tatami room.
-
-Behind the room:
-
-* corridor
-* wall
-* windows
-
-The corridor runs parallel to the room divider.
-
-No visible garden.
-
----
-
-## Position
-
-Dreamer:
-
-* lower body inside tatami
-* visible from waist up
-
-Grandmother:
-
-* standing in the room
-* positioned toward the far side of the room
-
----
-
-## Motion
-
-Grandmother notices the dreamer.
-
-Grandmother begins moving toward the dreamer.
-
-Movement is:
-
-* walking quickly
-* not running
-
-The movement expresses joyful eagerness.
-
----
-
-## Emotion
-
-Directly experienced:
-
-* joy
-* nostalgia
-* reunion
-
-Strong desire to embrace.
-
----
-
-## Words
-
-Grandmother:
-
-"ようこ！"
-
----
-
-## Shared Experience
-
-Grandmother and dreamer embrace.
-
-The embrace continues for a long time.
-
-Dreamer experiences:
-
-* deep nostalgia
-* deep joy
-
-The dream ends when the dreamer realizes the embrace could continue indefinitely.
-
----
-
 ## Dream Extraction Schema
 
 ### Meaning Layer
 
 Theme
+
 Relationships
+
 Intentions
 
 ### Entity Layer
@@ -255,7 +39,9 @@ Characters
 ### World Layer
 
 Space
+
 Viewpoint
+
 Positions
 
 Persistent Objects
@@ -263,7 +49,9 @@ Persistent Objects
 ### Experience Layer
 
 Motion
+
 Words
+
 Emotion
 
 ### Reconstruction Layer
@@ -271,26 +59,321 @@ Emotion
 Decisive Moment
 
 Memory Strength
+
 Uncertainty
 
 Open Questions
 
+Resolved Questions
+
 ---
 
+## Layer Definitions
+
+### Theme
+
+The central meaning that gives coherence to the dream.
+
+Examples:
+
+* reunion with enduring love
+* guidance before a journey
+* belonging
+* reconciliation
+* transformation
+
+---
+
+### Relationships
+
+Meaningful connections between participants.
+
+Examples:
+
+* grandmother ↔ granddaughter
+* guide ↔ traveler
+* parent ↔ child
+
+Dreams are often remembered through relationships more strongly than through individual objects.
+
+---
+
+### Intentions
+
+What participants are attempting or desiring to do.
+
+Examples:
+
+* embrace
+* welcome
+* guide
+* protect
+* reunite
+
+Intentions often explain actions more accurately than motion alone.
+
+---
+
+### Characters
+
+People, animals, or beings appearing within the dream.
+
+Examples:
+
+* grandmother
+* child
+* stranger
+* animal
+
+---
+
+### Space
+
+The structure of the environment.
+
+Examples:
+
+* room
+* corridor
+* garden
+* station
+* ocean
+
+Focus:
+
+spatial structure rather than interpretation.
+
+---
+
+### Viewpoint
+
+The position of awareness within the dream.
+
+Examples:
+
+* first person
+* third person
+* floating viewpoint
+* omniscient viewpoint
+* shifting viewpoint
+
+Viewpoint represents consciousness position rather than camera position alone.
+
+---
+
+### Positions
+
+Relative locations of participants and objects.
+
+Examples:
+
+* grandmother in the far corner
+* dreamer near the entrance
+* animal beside the window
+
+---
+
+### Persistent Objects
+
+Elements expected to remain identifiable across scenes.
+
+Examples:
+
+* gates
+* buildings
+* signs
+* furniture
+* architectural structures
+
+Persistent objects support continuity during reconstruction.
+
+---
+
+### Motion
+
+Observed movement.
+
+Examples:
+
+* walking
+* running
+* approaching
+* turning
+* standing
+
+Motion should be recorded before interpretation.
+
+---
+
+### Words
+
+Direct speech or remembered language.
+
+Examples:
+
+* "Yoko!"
+* "Go alone from here."
+
+Words often preserve important experiential meaning.
+
+---
+
+### Emotion
+
+Directly experienced feeling.
+
+Examples:
+
+* joy
+* fear
+* peace
+* nostalgia
+* surprise
+
+Focus on experienced emotion rather than interpretation.
+
+---
+
+### Decisive Moment
+
+A moment that captures the essential meaning of the dream.
+
+Examples:
+
+* recognition
+* reunion
+* farewell
+* discovery
+* embrace
+
+A decisive moment may carry the emotional meaning of an entire dream.
+
+---
+
+### Memory Strength
+
+Represents how strongly an element remains in memory.
+
+Examples:
+
+* Very High
+* High
+* Medium
+* Low
+
+Memory strength indicates importance within the remembered experience.
+
+---
+
+### Uncertainty
+
+Represents confidence in a remembered detail.
+
+Examples:
+
+* Certain
+* Likely
+* Uncertain
+* Unknown
+
+An element may be important while remaining uncertain.
+
+---
+
+### Open Questions
+
+Elements that remain unclear and require clarification.
+
+Examples:
+
+* corridor orientation
+* exact character position
+* visibility of surrounding structures
+
+Open Questions guide reconstruction dialogue.
+
+---
+
+### Resolved Questions
+
+Questions that were clarified through reconstruction dialogue.
+
+Examples:
+
+Question:
+Corridor orientation relative to the shoji
+
+Resolution:
+The corridor runs parallel to the shoji.
+
+Question:
+Visibility of the garden
+
+Resolution:
+The garden was not visible.
+
+Resolved Questions preserve the reconstruction process.
+
+---
+
+## Example
+
 Theme:
-  reunion_with_love
-  importance: 100
-  certainty: 95
+reunion_with_love
 
-Word:
-  "ようこ！"
-  importance: 98
-  certainty: 90
+Relationships:
+grandmother ↔ granddaughter
 
-Corridor:
-  importance: 85
-  certainty: 75
+Intentions:
+embrace
+reunion
 
-Window:
-  importance: 30
-  certainty: 40
+Characters:
+grandmother
+granddaughter
+
+Space:
+traditional Kyoto tatami room
+
+Viewpoint:
+third person
+
+Positions:
+grandmother in the far side of the room
+dreamer near the foreground
+
+Persistent Objects:
+tatami
+shoji
+corridor
+windows
+
+Motion:
+grandmother walking quickly toward the dreamer
+
+Words:
+"Yoko!"
+
+Emotion:
+joy
+nostalgia
+love
+
+Decisive Moment:
+grandmother recognizes the dreamer and calls out
+
+Memory Strength:
+Theme = 100
+Word("Yoko!") = 98
+Corridor = 85
+Window = 30
+
+Uncertainty:
+Corridor details = Medium
+
+Open Questions:
+none
+
+Resolved Questions:
+Corridor runs parallel to the shoji.
+Garden not visible.

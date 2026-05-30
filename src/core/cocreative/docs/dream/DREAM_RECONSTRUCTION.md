@@ -1020,3 +1020,146 @@ Dream reconstruction may require preservation of both:
 A dream image is not only a representation of a world.
 
 It is a representation of where awareness existed within that world.
+
+---
+
+## Theme and Relational Meaning
+
+An important observation emerged during dream reconstruction.
+
+The most memorable element of a dream is not always a character, object, or location.
+
+Often the deepest remembered element is a relationship.
+
+---
+
+## Beyond Characters
+
+Example:
+
+Character A:
+
+Grandmother
+
+Character B:
+
+Granddaughter
+
+These descriptions identify participants.
+
+However they do not yet explain the meaning of the dream.
+
+The meaning emerges from the relationship between them.
+
+Example:
+
+* reunion
+* love
+* recognition
+* embrace
+* belonging
+
+The dream is not remembered primarily as two people.
+
+The dream is remembered as a relationship.
+
+---
+
+## Relational Meaning
+
+Dreams often preserve relational experiences more strongly than visual details.
+
+Examples:
+
+Visual details may fade:
+
+* clothing
+* architecture
+* object placement
+
+Relational meaning often remains:
+
+* deep love
+* trust
+* guidance
+* forgiveness
+* reunion
+
+Participants frequently remember how a relationship felt even when visual details become uncertain.
+
+---
+
+## Theme Layer
+
+A theme may exist above individual dream elements.
+
+Examples:
+
+* reunion with enduring love
+* guidance before a journey
+* restoration
+* reconciliation
+* belonging
+* transformation
+
+The theme provides coherence across the entire dream.
+
+Characters, locations, objects, and events become expressions of that theme.
+
+---
+
+## Example
+
+Grandmother Dream
+
+Theme:
+
+Reunion with enduring love
+
+Relationship:
+
+Grandmother ↔ Granddaughter
+
+deep love
+
+recognition
+
+embrace
+
+Characters:
+
+Grandmother
+
+Granddaughter
+
+The emotional power of the dream originates primarily from the theme and relationship rather than from individual visual elements.
+
+---
+
+## Working Hypothesis
+
+Dream reconstruction may benefit from preserving multiple layers:
+
+Theme
+
+↓
+
+Relationships
+
+↓
+
+Characters
+
+↓
+
+World
+
+↓
+
+Moments
+
+A reconstruction may appear visually accurate while failing to preserve relational meaning.
+
+Conversely, a reconstruction that preserves relational meaning may still feel authentic even when some visual details differ.
+
+The deepest continuity of a dream may reside not in objects, but in relationships.

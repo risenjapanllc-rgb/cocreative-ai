@@ -57,11 +57,31 @@ Sensory Experience
 
 Temporal Structure
 
+Scene Boundaries
+
 Motion
 
 Words
 
 Emotion
+
+---
+
+### Scene Boundaries
+
+Represents transitions between distinct dream scenes.
+
+Examples:
+
+- room to corridor
+- car to gate
+- station to train
+
+Scene boundaries divide a dream into coherent segments.
+
+A scene may contain multiple events while preserving the same spatial and experiential context.
+
+---
 
 ### Reconstruction Layer
 
@@ -263,6 +283,8 @@ spatial structure rather than interpretation.
 
 The position of awareness within the dream.
 
+Viewpoint represents the location of consciousness rather than camera position alone.
+
 Examples:
 
 * first person
@@ -271,7 +293,40 @@ Examples:
 * omniscient viewpoint
 * shifting viewpoint
 
-Viewpoint represents consciousness position rather than camera position alone.
+---
+
+Dream viewpoint may remain stable throughout an experience.
+
+Examples:
+
+* observing through one's own eyes
+* continuously observing from above
+* continuously observing from outside the scene
+
+---
+
+Dream viewpoint may also shift.
+
+Examples:
+
+* first person → third person
+* third person → floating observer
+* observer → participant
+
+Perspective shifts are common in dreams and should be preserved during reconstruction.
+
+---
+
+Viewpoint influences:
+
+* what can be seen
+* what can be known
+* spatial understanding
+* emotional experience
+
+The same dream event may feel completely different when experienced from a different viewpoint.
+
+Preserving viewpoint is therefore essential for preserving dream experience.
 
 ---
 

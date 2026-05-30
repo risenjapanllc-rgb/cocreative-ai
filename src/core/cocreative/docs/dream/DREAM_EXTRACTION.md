@@ -79,6 +79,8 @@ Resolved Questions
 
 Contradictions
 
+Reconstruction Goals
+
 ---
 
 ### Significance
@@ -107,6 +109,23 @@ Examples:
 Contradictions identify reconstruction errors that require correction.
 
 Unlike Open Questions, contradictions occur when a reconstructed element conflicts with an already remembered detail.
+
+---
+
+### Reconstruction Goals
+
+Represents the intended corrections or preservation targets during reconstruction.
+
+Examples:
+
+- move grandmother slightly right
+- preserve corridor orientation
+- preserve approved regions
+- maintain emotional tone
+
+Reconstruction Goals help guide iterative refinement.
+
+Unlike Open Questions, goals describe desired outcomes rather than missing information.
 
 ---
 

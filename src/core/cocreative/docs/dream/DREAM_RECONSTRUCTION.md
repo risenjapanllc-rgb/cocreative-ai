@@ -259,3 +259,41 @@ Participants contribute corrections.
 The canonical description absorbs those corrections.
 
 Future reconstructions are generated from the updated canonical description rather than from a collection of accumulated correction fragments.
+
+---
+
+## Meaning vs Structure
+
+Dream reconstruction revealed two distinct forms of preservation.
+
+Meaning Preservation:
+
+- reunion
+- joy
+- grandmother
+- embrace
+
+Structure Preservation:
+
+- spatial layout
+- corridor orientation
+- participant position
+- body visibility
+
+Current image generation systems appear stronger at preserving meaning than structure.
+
+---
+
+## Dream Reconstruction Challenge
+
+A dream may feel correct emotionally while remaining incorrect spatially.
+
+Participants may therefore report:
+
+"The feeling is right."
+
+while also reporting:
+
+"The place is wrong."
+
+Both forms of preservation may be necessary for faithful dream reconstruction.

@@ -443,3 +443,155 @@ The primary product may not be the image.
 The primary product may be the shared canonical description.
 
 Images, stories, and future reconstructions may emerge from that shared representation.
+
+---
+
+## Decisive Moments and World Continuity
+
+An important observation emerged during dream reconstruction.
+
+A dream image is rarely an isolated image.
+
+It is often a moment extracted from a continuous experiential world.
+
+Example:
+
+A grandmother sees her granddaughter.
+
+She says:
+
+"Yoko!"
+
+and begins moving toward her.
+
+The image captures a single moment.
+
+However, the meaning of that moment depends on the moments before and after it.
+
+Dream reconstruction may therefore require continuity preservation in addition to moment preservation.
+
+---
+
+## The Continuity Problem
+
+A recurring issue appeared during scene reconstruction.
+
+Example:
+
+Scene 1:
+
+An old gentleman and the dreamer sit in a car.
+
+A gate is visible ahead.
+
+Scene 2:
+
+The dreamer walks toward the gate alone.
+
+Expected:
+
+The gate remains the same gate.
+
+Observed:
+
+The gate becomes a different gate.
+
+Although each image may appear plausible independently, continuity between scenes is lost.
+
+The dream world becomes fragmented.
+
+---
+
+## Fixed Objects and Moving Objects
+
+Not all elements of a dream world behave the same way.
+
+### Moving Objects
+
+Examples:
+
+* people
+* animals
+* birds
+* clothing
+* hair
+* clouds
+* moving vegetation
+
+These elements naturally change between moments.
+
+### Persistent Objects
+
+Examples:
+
+* gates
+* rocks
+* buildings
+* signs
+* terrain
+* architectural structures
+
+These elements often provide continuity across scenes.
+
+They form part of the stable structure of the dream world.
+
+---
+
+## Object Persistence
+
+Dream reconstruction may require preservation of persistent objects.
+
+Characters may move.
+
+Viewpoints may move.
+
+Moments may change.
+
+However persistent objects should remain identifiable across scenes.
+
+Without object persistence:
+
+Scene continuity breaks.
+
+The dream world becomes unstable.
+
+---
+
+## Canonical Dream World
+
+A canonical description may not be sufficient by itself.
+
+Future reconstruction systems may require a deeper representation:
+
+Dream
+
+↓
+
+Canonical Dream World
+
+↓
+
+Scene Selection
+
+↓
+
+Image Generation
+
+The dream world contains:
+
+* persistent objects
+* moving objects
+* spatial relationships
+* emotional context
+
+Individual scenes are then generated from that shared world.
+
+---
+
+## Working Hypothesis
+
+The goal of dream reconstruction may not be the generation of isolated images.
+
+The goal may be the reconstruction of a coherent dream world from which meaningful moments can be extracted.
+
+A decisive moment gains meaning because it belongs to a continuous world.

@@ -75,6 +75,16 @@ Open Questions
 
 Resolved Questions
 
+### Significance
+
+Represents how important an element is to the meaning of the dream.
+
+An element may be remembered clearly while having limited significance.
+
+Likewise, an element may carry deep significance even when remembered only partially.
+
+Significance helps identify what should be preserved during reconstruction.
+
 ---
 
 ## Layer Definitions

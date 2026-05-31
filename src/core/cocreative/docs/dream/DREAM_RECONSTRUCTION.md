@@ -300,6 +300,79 @@ Both forms of preservation may be necessary for faithful dream reconstruction.
 
 ---
 
+## Structure-Dependent and Meaning-Dependent Dreams
+
+An observation emerged during comparison of multiple dream reconstructions.
+
+Not all dreams depend on the same type of preservation.
+
+Some dreams appear highly dependent on structural accuracy.
+
+Others appear more dependent on preservation of meaning, relationships, and intentions.
+
+---
+
+### Structure-Dependent Dreams
+
+Example:
+
+Grandmother Dream
+
+Small structural changes significantly altered the experience.
+
+Examples:
+
+* corridor orientation changed
+* body emergence changed
+* approach trajectory changed
+
+Meaning remained recognizable.
+
+The dream still felt incorrect.
+
+---
+
+### Meaning-Dependent Dreams
+
+Example:
+
+Old Gentleman Dream
+
+Some structural elements changed.
+
+Examples:
+
+* seating arrangement differed
+* vehicle configuration differed
+* sign content differed
+
+However:
+
+* guidance remained
+* farewell remained
+* solitary journey remained
+* destination remained
+
+The atmosphere remained recognizable.
+
+---
+
+## Working Hypothesis
+
+Dreams may exist along a spectrum between:
+
+Structure Preservation
+
+and
+
+Meaning Preservation.
+
+Different dreams may require different reconstruction priorities.
+
+Faithful reconstruction may therefore require identifying which form of preservation is most essential for a particular dream.
+
+---
+
 ## Beyond Image Generation
 
 An unexpected observation emerged during dream reconstruction.

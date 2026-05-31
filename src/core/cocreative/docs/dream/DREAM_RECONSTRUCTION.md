@@ -1464,6 +1464,116 @@ Should trajectory become a separate extraction layer, or can it be represented t
 
 ---
 
+## Research Note: Narrative Function vs Visual Appearance
+
+An observation emerged during reconstruction of the Old Gentleman Dream.
+
+A wooden sign appeared along the path leading toward the hilltop.
+
+During image generation, a sign was generated.
+
+Initially, this appeared reasonably accurate.
+
+However, further examination revealed an important distinction.
+
+The issue was not merely the appearance of the sign.
+
+The issue was its function within the dream.
+
+---
+
+Dream Memory:
+
+The sign indicated direction.
+
+It communicated:
+
+"This way."
+
+It functioned as guidance along the journey.
+
+---
+
+Generated Reconstruction:
+
+A sign existed.
+
+However, its directional function was weak or absent.
+
+The visual object was present.
+
+Its narrative role was not fully preserved.
+
+---
+
+Observation:
+
+Some dream elements may be remembered primarily through their function rather than their appearance.
+
+Examples:
+
+Old Gentleman
+
+Appearance:
+elderly man with black hat and long white beard
+
+Narrative Function:
+guide
+sender
+one who remains behind
+
+---
+
+Gate
+
+Appearance:
+large old gate
+
+Narrative Function:
+threshold
+point of transition
+
+---
+
+Sign
+
+Appearance:
+wooden sign
+
+Narrative Function:
+directional guidance
+indication of the correct path
+
+---
+
+Hill Path
+
+Appearance:
+winding path up a hill
+
+Narrative Function:
+ascent toward destination
+
+---
+
+Working Hypothesis
+
+Dream reconstruction may require preservation of:
+
+Appearance
+
+Identity
+
+Narrative Function
+
+A reconstruction may preserve appearance while losing function.
+
+When this occurs, the dream may feel visually similar yet experientially different.
+
+Open Question:
+
+Should Narrative Function become an explicit reconstruction element, or can it be represented through Theme, Relationships, and Intentions?
+
 ---
 
 ## Dream Logic Violation Through Physical Explanation

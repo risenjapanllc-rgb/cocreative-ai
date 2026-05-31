@@ -1389,3 +1389,80 @@ Open Question:
 
 Should trajectory become a separate extraction layer, or can it be represented through Position, Motion, and Temporal Structure?
 
+---
+
+---
+
+## Dream Logic Violation Through Physical Explanation
+
+A recurring reconstruction error emerged during image generation.
+
+Dream Memory:
+
+The dreamer appeared from the tatami from around the belt level upward.
+
+No hole was perceived.
+
+No opening was perceived.
+
+No wooden frame was perceived.
+
+No enclosure was perceived.
+
+The condition felt completely natural.
+
+---
+
+Generated Reconstruction:
+
+A physical opening was introduced.
+
+A wooden frame was introduced.
+
+The dreamer appeared to be inside a hole.
+
+---
+
+Observation:
+
+The image generator attempted to explain the dream condition using waking-world logic.
+
+Dream Logic:
+
+Upper body visible.
+
+Lower body not visible.
+
+No explanation required.
+
+Waking Logic:
+
+Upper body visible.
+
+Therefore a hole must exist.
+
+---
+
+This reconstruction changed the dream itself.
+
+The visual appearance remained similar, but the internal logic of the dream was replaced.
+
+---
+
+Principle:
+
+Dream Logic should be preserved rather than explained.
+
+A reconstruction becomes inaccurate when it introduces physical explanations that were absent from the dream experience.
+
+---
+
+Example:
+
+Incorrect:
+
+The dreamer emerges from a hole in the tatami.
+
+Correct:
+
+The dreamer emerges naturally from the tatami without any visible opening, frame, or enclosure.
